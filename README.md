@@ -5,6 +5,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimnieyh)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=kimnieyh)](https://solved.ac/kimnieyh)
+
 ## 💻 DEV's log 💻
 [![velog](https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white)](https://velog.io/@miknieyh)
 
